@@ -1,8 +1,8 @@
-#SQL Portfolio Project: Music Store Data Analysis
+# SQL Portfolio Project: Music Store Data Analysis
 
 Welcome to my SQL Portfolio Project! This project demonstrates my ability to analyze data using SQL queries on a **Music Store Database**. The dataset includes information about artists, albums, tracks, invoices, customers, and genres. Through this project, I have solved various business problems by writing complex SQL queries to extract meaningful insights.
 
-##📁 Repository Structure
+## 📁 Repository Structure
 
 Music-Store-Data-Analysis/
 ├── Data/
@@ -13,7 +13,7 @@ Music-Store-Data-Analysis/
 ├── README.md                         # Project documentation
 
 
-##🎯 Project Overview
+## 🎯 Project Overview
 
 This project involves analyzing a **Music Store Database** to answer key business questions. The dataset includes tables such as 'customer', 'invoice', 'invoice_line', 'track', 'album', 'artist', and 'genre'. Below are some of the questions I addressed:
 
@@ -39,7 +39,7 @@ This project involves analyzing a **Music Store Database** to answer key busines
 **Most Popular Genre by Country**: What is the most popular music genre for each country?
 
 
-##🛠️ Tools and Technologies Used
+## 🛠️ Tools and Technologies Used
 
 -**SQL**: For querying and analyzing the database.
 
