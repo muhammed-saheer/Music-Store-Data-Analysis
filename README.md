@@ -2,15 +2,6 @@
 
 Welcome to my SQL Portfolio Project! This project demonstrates my ability to analyze data using SQL queries on a **Music Store Database**. The dataset includes information about artists, albums, tracks, invoices, customers, and genres. Through this project, I have solved various business problems by writing complex SQL queries to extract meaningful insights.
 
-## 📁 Repository Structure
-
-Music-Store-Data-Analysis/
-├── Data/
-│   ├── music_store_data.sql          # SQL file to create and populate the database
-│   ├── music_store_data.csv          # CSV file containing the dataset
-├── Queries/
-│   ├── music_store_queries.sql       # SQL file containing all the queries
-├── README.md                         # Project documentation
 
 
 ## 🎯 Project Overview
